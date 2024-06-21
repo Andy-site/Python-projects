@@ -1,7 +1,3 @@
-"""Name:Ananda Neupane
-   Student ID:2329810
-   College ID:np03cs4a220146@heraldcollege.edu.np"""
-
 
 # using wel function to show msg to user
 def welcome():
